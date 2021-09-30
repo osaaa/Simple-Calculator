@@ -1,4 +1,3 @@
-//Osa Ikhinnmwin
-//300211931
+//by Osa
 
-a simple calculator for lab3 fo seg2105
+a simple calculator for android os.
